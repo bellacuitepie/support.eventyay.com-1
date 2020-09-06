@@ -22,7 +22,7 @@ If you have an account, log in using your `username` and `password`.
 On the top right hand corner, choose `manange event`.
 
 
-![Collect attendee information](/images/Manage-Event-Bar.png)
+![Collect attendee information](/images/Manage-events-bar.png)
 
 
 ### c. Select `event dashboard`
